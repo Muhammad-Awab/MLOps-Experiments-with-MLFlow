@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/119094466799099402/a42a9c6004c146eab77811511405e83c/artifacts
+end_time: 1738512107053
+entry_point_name: ''
+experiment_id: '119094466799099402'
+lifecycle_stage: active
+run_id: a42a9c6004c146eab77811511405e83c
+run_name: melodic-slug-959
+run_uuid: a42a9c6004c146eab77811511405e83c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738512089445
+status: 3
+tags: []
+user_id: dell
